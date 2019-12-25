@@ -1,4 +1,4 @@
-name: Deploy Notes
+name: Deploy Conference Notes
 
 on:
   push:
