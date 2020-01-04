@@ -19,4 +19,4 @@ jobs:
         BASE_BRANCH: master
         BRANCH: gh-pages
         FOLDER: docs/.vuepress/dist
-        BUILD_SCRIPT: npm install && npm run docs:build
+        BUILD_SCRIPT: npm install && npm run build
