@@ -21,9 +21,11 @@
     - Works by identifying how much the classification changes based on different components in the image
 - Knowledge Distilation
 
+
 ### AI 360 Intro
 
 - Developed by IBM
+    - As such some of the functionality is available open source but in order to create a "value proposition" many useful features are excluded & only available for purchase, eg categorical variables, feature filtering for counterfactuals, etc
 - Developed a taxonomy that can be explored to identify the most appropriate technique
     - `(add photo/slide of the taxonomy)`
 - Types:
@@ -56,17 +58,39 @@ The demo is available online but behind a login.
 Not all algoirthms are available yet in the package. Some of the handling for categorical variables are currently closed source but the accompanying papers should be available.
 
 
-### HELOC Demo
+### Demos
 
-Walk-through available at: [Credit Approval Tutorial](https://nbviewer.jupyter.org/github/IBM/AIX360/blob/master/examples/tutorials/HELOC.ipynb)
+#### HELOC
+
+Whether or not to approve a loan application.
+
+- [Credit Approval Tutorial](https://nbviewer.jupyter.org/github/IBM/AIX360/blob/master/examples/tutorials/HELOC.ipynb)
+
+Provides an example of supervised prototype identification based on model outputs.
 
 *NOTE: In order to run the demo the data is required from FICO & requires submitting an access request*
 
-#### Comments on the library
+#### CDC
+
+Data investigation of survey data
+
+- [Protodash: NHANES (CDC)](https://nbviewer.jupyter.org/github/IBM/AIX360/blob/master/examples/protodash/Protodash-CDC.ipynb) 
+
+Provides an unsupervised example of prototype identification that doesn't require a model. Can be used (as in the demo) as a data exploratory tool.
+
+Can modify the distance metric to ensure prototypes generated represent particular attributes, eg gender or race coverage. Similar concepts are covered in the paper [Fair Clustering Through Fairlets](https://papers.nips.cc/paper/7088-fair-clustering-through-fairlets.pdf)
+
+
+#### Dermoscopy
+
+Identification of skin conditions (cancer, etc) through dermoscopic images. 
+
+- [Skin Lesion Classification using Dermoscopic Images](https://nbviewer.jupyter.org/github/IBM/AIX360/blob/master/examples/tutorials/dermoscopy.ipynb)
+
+### Comments on the library
 - Supports both continuous & categorical features (as well as combinations of both)
     - Eg a continuous feature plus a binned version
 - Supports a custom method for binarising data prior to analysis
     - `FeatureBinarizer` to manage this with options such as bin size
 - LRR: Logistic Rule Regression
     - Generates a GAM
-- 
