@@ -2,9 +2,11 @@
 
 | Item | Description |
 | --- | --- | 
+| Presented By | IBM Research |
 | FAT Reference | [AI Explainability 360 Tutorial](https://fatconference.org/2020/acceptedtuts.html#ai) |
 | Paper | [AI explainability 360: hands-on tutorial](https://dl.acm.org/doi/abs/10.1145/3351095.3375667) |
 | Microsite | [AI Explainability 360 Tutorial](https://github.com/IBM/AIX360/wiki/ACM-FAT*2020-Tutorial) |
+| Github | [IBM/AIX360](https://github.com/IBM/AIX360) |
 
 
 ## Notes

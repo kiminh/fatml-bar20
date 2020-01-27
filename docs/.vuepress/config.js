@@ -16,14 +16,14 @@ module.exports = {
           title: 'CRAFTs',
           collapsible: true,
           children:[
-            '/notes/crafts/'
+            
           ]
         },
         {
           title: 'Talks',
           collapsible: true,
           children:[
-            '/notes/talks/'
+            
           ]
         }
       ],
