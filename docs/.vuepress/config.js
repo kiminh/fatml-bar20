@@ -12,7 +12,8 @@ module.exports = {
           title: 'Tutorials',
           collapsible: true,
           children:[
-            '/notes/tutorials/ai_explainability_360'
+            '/notes/tutorials/ai_explainability_360',
+            '/notes/tutorials/lessons_from_nlp'
           ]
         },
         {
