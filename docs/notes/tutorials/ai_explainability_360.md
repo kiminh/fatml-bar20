@@ -87,6 +87,20 @@ Identification of skin conditions (cancer, etc) through dermoscopic images.
 
 - [Skin Lesion Classification using Dermoscopic Images](https://nbviewer.jupyter.org/github/IBM/AIX360/blob/master/examples/tutorials/dermoscopy.ipynb)
 
+Explainer approach is called DIP-VAE or Disentangled Inferred Prior Variational Autoencoder. Based off the following papers:
+- [Variational Inference of Disentangled Latent Concepts from Unlabeled Observations](https://arxiv.org/abs/1711.00848)
+- [Auto-encoding variational Bayes](https://arxiv.org/pdf/1312.6114.pdf)
+
+The focus is on explaining images, with the concept surrounding permutations of the latent representation to understand how the output image changes.
+1. Train an autoencoder:
+    - original image -> Latent features (of length N) + loss -> "predicted" image that is an exact match
+        - Where loss = reconstruction loss + regulariser
+    - The latent features are representative of the different attributes identified in the model. In addition to human input these can be labelled/associated with known "physical" items, similar to labelling clusters
+    - Length N refers to each attribute learned
+2. Modification of the latent feature values can highlight how the model reacts to different attribute changes
+3. Alternatively the latent features can be used to build a simple model & used as the features. This model in addition to existing explainability tools (LIME/SHAP/etc) can be used to explain more complicated NN/DL style models
+
+
 ### Comments on the library
 - Supports both continuous & categorical features (as well as combinations of both)
     - Eg a continuous feature plus a binned version
