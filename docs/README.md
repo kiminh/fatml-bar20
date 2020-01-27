@@ -3,7 +3,7 @@ home: true
 # heroImage: /hero.png
 heroText: FATML
 tagline: Fairness, Accountability & Transperency in Machine Learning
-actionText: Get Started →
+actionText: Jump On In →
 actionLink: /Program/
 features:
 - title: Tutorials
