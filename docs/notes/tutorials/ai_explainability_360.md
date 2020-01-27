@@ -33,3 +33,8 @@
 **Use-case**: *whether or not a financial institute should offer a loan to a loan applicant*
 
 The demo is available online but behind a login.
+
+Proto-Dash:
+- Retrieves/identifies similar observations to the one of interest
+    - [Maximum mean discrepency](https://www.ibm.com/blogs/research/2019/10/learning-implicit-generative-models/) used as the similarity metric
+    - Highlights the most similar items
