@@ -25,7 +25,7 @@
 
 - Developed by IBM
 - Developed a taxonomy that can be explored to identify the most appropriate technique
-    - (add photo/slide of the taxonomy)
+    - `(add photo/slide of the taxonomy)`
 - Types:
     - *post-hoc*: explain each point/observation etc
     - *self-explaining*: The model to derive the explanations might not be explainable
