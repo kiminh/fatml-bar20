@@ -84,6 +84,24 @@ module.exports = {
                 '/notes/talks/ethics_and_policy_freedom_of_others',
                 '/notes/talks/ethics_and_policy_roles_for_computing_in_social_change'
               ]
+            },{
+              title: 'Values',
+              collapsible: true,
+              children:[
+                '/notes/talks/values_effect_of_confidence',
+                '/notes/talks/values_philosophical_basis',
+                '/notes/talks/values_regulating_transperency',
+                '/notes/talks/values_relationship_between_trust',
+                '/notes/talks/values_value_laden_discrepency'
+              ]
+            },{
+              title: 'Data Collection',
+              collapsible: true,
+              children:[
+                '/notes/talks/data_collection_data_in_new_delhi',
+                '/notes/talks/data_collection_garbage_in_garbage_out',
+                '/notes/talks/data_collection_lessons_from_archives'
+              ]
             }
           ]
         }
