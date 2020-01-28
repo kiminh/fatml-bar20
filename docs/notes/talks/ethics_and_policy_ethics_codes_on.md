@@ -2,10 +2,14 @@
 
 | Item | Description |
 | --- | --- | 
-| Presented By | Anne L. Washington |
+| Presented By | Rachel Kuo |
 | Paper | [Whose Side are Ethics Codes On?](https://dl.acm.org/doi/pdf/10.1145/3351095.3372844?download=true) |
 
 
 
 ## Notes
 
+- Investigating whether digital platforms reinforce societal stigmas &/or create new forms of disparities
+- People feel exposed online as the attitudes & behaviours developed online can spill over into real world consequences
+- Technological solutions are rarely sufficient to create social change
+- Recommendation is to build technology in collaboration with the communities that will be impacted/interact with them

@@ -9,3 +9,11 @@
 
 ## Notes
 
+- Goal is to clarify what ethics is AI is
+- Ethics washing
+    - to clean or wash a companies reputation through ethics
+- Differentiates between:
+    - Ethics as a mode of inquiry (philosophy)
+    - Ethics as a corporate strategy
+- Raises concerns that in-house (corporate) strategies to ethics could lead to push back against regulatory or legislative oversight
+- The context that ethics are considered in can themselves influence how ethics are defined, measured & implemented
