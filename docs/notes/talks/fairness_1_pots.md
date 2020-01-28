@@ -15,3 +15,4 @@
     - they've got their blinkers on
 - Alternative is `POTS`
     - Protective optimisation technologies
+    - leverage's adversarial ML
