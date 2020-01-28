@@ -65,6 +65,25 @@ module.exports = {
                 '/notes/talks/keynote_2_productivity_and_power',
                 '/notes/talks/keynote_3_making_accountability_real'
               ]
+            },{
+              title: 'Fairness 1',
+              collapsible: true,
+              children:[
+                '/notes/talks/fairness_1_fair_decision_making',
+                '/notes/talks/fairness_1_fairness_warnings',
+                '/notes/talks/fairness_1_pots',
+                '/notes/talks/fairness_1_studying_up'
+              ]
+            },{
+              title: 'Ethics & Policy',
+              collapsible: true,
+              children:[
+                '/notes/talks/ethics_and_policy_algorithmic_targetting',
+                '/notes/talks/ethics_and_policy_ethics_codes_on',
+                '/notes/talks/ethics_and_policy_ethics_washing',
+                '/notes/talks/ethics_and_policy_freedom_of_others',
+                '/notes/talks/ethics_and_policy_roles_for_computing_in_social_change'
+              ]
             }
           ]
         }
