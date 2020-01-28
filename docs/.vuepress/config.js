@@ -57,6 +57,14 @@ module.exports = {
                 '/notes/talks/explainability_multi_layered_explainability',
                 '/notes/talks/explainability_why_does_my_model_fail',
               ]
+            },{
+              title: 'Keynotes',
+              collapsible: true,
+              children:[
+                '/notes/talks/keynote_1_hacking_human_bias',
+                '/notes/talks/keynote_2_productivity_and_power',
+                '/notes/talks/keynote_3_making_accountability_real'
+              ]
             }
           ]
         }
