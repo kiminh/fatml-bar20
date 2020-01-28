@@ -14,3 +14,7 @@ features:
   details: Keynotes & talks relating to fairness & ethical AI
 footer: MIT Licensed | Copyright © 2020-present 
 ---
+
+
+Homepage: https://fatconference.org/index.html
+Slides & Reference Material: https://drive.google.com/drive/u/0/folders/1N5QRs-gucF8gyKHGayjM2cFensxnNwAl
