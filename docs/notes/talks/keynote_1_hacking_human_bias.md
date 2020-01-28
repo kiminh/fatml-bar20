@@ -18,5 +18,4 @@
     - Application for uses with children is thus questionable
 - Was able to build enough trust in the robots that humans would handover decision making to the robot & if it fails you give up straight away
 - Assigning robots identities (gender, name, race, etc) peolpe's reactions to the robots change. The labelling influences the reactions & interactions of humans with these
-- Trust can build overtime with inannimate systems/objects (ie robots) & if they fail over time can illicit real emotional responses from the users
-- 
+- Trust can build overtime with inanimate systems/objects (ie robots) & if they fail over time can illicit real emotional responses from the users
