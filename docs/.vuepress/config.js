@@ -102,6 +102,35 @@ module.exports = {
                 '/notes/talks/data_collection_garbage_in_garbage_out',
                 '/notes/talks/data_collection_lessons_from_archives'
               ]
+            },{
+              title: 'Fairness 2',
+              collapsible: true,
+              children:[
+                '/notes/talks/fairness_2_bidding_strategies',
+                '/notes/talks/fairness_2_disparate_equilibria',
+                '/notes/talks/fairness_2_interventions_for_ranking',
+                '/notes/talks/fairness_2_multi_category_fairness',
+                '/notes/talks/fairness_2_reducing_sentiment_polarity'
+              ]
+            },{
+              title: 'Cognition & Education',
+              collapsible: true,
+              children:[
+                '/notes/talks/cognition_and_education_artificial_mental_phenomena',
+                '/notes/talks/cognition_and_education_empirical_study_of_percieved_fairness',
+                '/notes/talks/cognition_and_education_integrating_fate',
+                '/notes/talks/cognition_and_education_social_lives'
+              ]
+            },{
+              title: 'Auditing/Assessment 2',
+              collapsible: true,
+              children:[
+                '/notes/talks/auditing_2_bias_in_word_embeddings',
+                '/notes/talks/auditing_2_impact_of_overlooking',
+                '/notes/talks/auditing_2_mitigating_bias',
+                '/notes/talks/auditing_2_recommendation_and_user_agency',
+                '/notes/talks/auditing_2_recommendation_and_user_agency'
+              ]
             }
           ]
         }
