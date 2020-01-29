@@ -25,7 +25,9 @@
 - Discrimination arises because it's "easy" to categorise for the purpose of measurement but many of these items are more fluid, such as gender & race
 - Claims anti-discrimination is a common corporate goal but anti-exploitation isn't
 - `*insert diagnosis slides*`
-- 
+- Exploitation & discrimination are distinctly different entities
+    - Fairness as a necessity must consider both
+
 
 
 
