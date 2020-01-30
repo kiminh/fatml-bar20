@@ -27,7 +27,7 @@
 - Developed by IBM
     - As such some of the functionality is available open source but in order to create a "value proposition" many useful features are excluded & only available for purchase, eg categorical variables, feature filtering for counterfactuals, etc
 - Developed a taxonomy that can be explored to identify the most appropriate technique
-    ![alt text](ai360_taxonomy.png "AI360 Explainability Taxonomy")
+    ![AI360 Explainability Taxonomy](./ai360_taxonomy.png)
 
 - Types:
     - *post-hoc*: explain each point/observation etc
