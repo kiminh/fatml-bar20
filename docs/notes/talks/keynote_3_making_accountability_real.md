@@ -15,3 +15,5 @@
     - Surveillance
     - Black-box decisioning
 - Suggests that rather than focusing on newer & newer legislation there's a lot of existing sufficient legislation. The challenge is enforcement & that collective pressure to ensure proper enforcement is the change required
+- Title `Strategic Litigation`
+- 
