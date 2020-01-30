@@ -3,7 +3,7 @@
 | Item | Description |
 | --- | --- | 
 | Presented By | Ayanna Howard |
-
+| FAT* Reference | [Hacking the Human Bias in AI](https://fatconference.org/2020/keynotes.html#howard) |
 
 
 ## Notes

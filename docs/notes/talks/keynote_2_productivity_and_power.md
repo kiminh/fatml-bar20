@@ -3,6 +3,7 @@
 | Item | Description |
 | --- | --- | 
 | Presented By | Yochai Benkler |
+| FAT* Reference | [Productivity and Power: The Role of Technology in Political Economy](https://fatconference.org/2020/keynotes.html#benkler) |
 
 
 
