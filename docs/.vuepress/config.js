@@ -63,7 +63,8 @@ module.exports = {
               children:[
                 '/notes/talks/keynote_1_hacking_human_bias',
                 '/notes/talks/keynote_2_productivity_and_power',
-                '/notes/talks/keynote_3_making_accountability_real'
+                '/notes/talks/keynote_3_making_accountability_real',
+                '/notes/talks/closing_townhall'
               ]
             },{
               title: 'Fairness 1',
