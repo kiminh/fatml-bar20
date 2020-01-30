@@ -21,7 +21,7 @@ module.exports = {
           title: 'CRAFTs',
           collapsible: true,
           children:[
-            
+            '/notes/crafts/from_theory_to_practise'
           ]
         },
         {
@@ -130,6 +130,52 @@ module.exports = {
                 '/notes/talks/auditing_2_mitigating_bias',
                 '/notes/talks/auditing_2_recommendation_and_user_agency',
                 '/notes/talks/auditing_2_recommendation_and_user_agency'
+              ]
+            },{
+              title: 'Sensitive Attributes',
+              collapsible: true,
+              children:[
+                '/notes/talks/sensitive_awareness_in_practise.md',
+                '/notes/talks/sensitive_critical_race_methodology.md',
+                '/notes/talks/sensitive_whats_sex_got_to_do.md'
+              ]
+            },{
+              title: 'Fairness 3',
+              collapsible: true,
+              children:[
+                '/notes/talks/fairness_3_apparent_conflict.md',
+                '/notes/talks/fairness_3_fair_classification.md',
+                '/notes/talks/fairness_3_fairness_is_not_static.md',
+                '/notes/talks/fairness_3_preference_informed_fairness.md',
+                '/notes/talks/fairness_3_towards_fairer_datasets.md'
+              ]
+            },{
+              title: 'Auditing/Assessment 3',
+              collapsible: true,
+              children:[
+                '/notes/talks/auditing_3_case_for_voter_centered_audits.md',
+                '/notes/talks/auditing_3_counterfactual_risk_assessments.md',
+                '/notes/talks/auditing_3_dirichlet_uncertainty.md',
+                '/notes/talks/auditing_3_false_promise_of_risk_assessments.md',
+                '/notes/talks/auditing_3_whose_tweets_are_surveilled.md'
+              ]
+            },{
+              title: 'Explainability 2',
+              collapsible: true,
+              children:[
+                '/notes/talks/explainability_2_doctor_xai.md',
+                '/notes/talks/explainability_2_explainable_ml_in_deployment.md',
+                '/notes/talks/explainability_2_explaining_machine_learning.md',
+                '/notes/talks/explainability_2_model_agnostic_interpretability.md',
+                '/notes/talks/explainability_2_robustness_in_ml.md'
+              ]
+            },{
+              title: 'Fairness 4',
+              collapsible: true,
+              children:[
+                '/notes/talks/fairness_4_effects_of_competition.md',
+                '/notes/talks/fairness_4_fairness_and_utilisation.md',
+                '/notes/talks/fairness_4_measuring_justice.md'
               ]
             }
           ]
