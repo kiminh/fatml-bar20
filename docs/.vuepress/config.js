@@ -169,6 +169,14 @@ module.exports = {
                 '/notes/talks/explainability_2_model_agnostic_interpretability',
                 '/notes/talks/explainability_2_robustness_in_ml'
               ]
+            },{
+              title: 'Fairness 4',
+              collapsible: true,
+              children:[
+                '/notes/talks/fairness_4_effects_of_competition',
+                '/notes/talks/fairness_4_fairness_and_utilisation',
+                '/notes/talks/fairness_4_measuring_justice'
+              ]
             }
           ]
         }
