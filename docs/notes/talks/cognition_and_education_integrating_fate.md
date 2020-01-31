@@ -11,9 +11,14 @@
 
 - "Type 2" data scientist
     - More focused on user needs rather than programming heavy
+![Student volume breakdown](./student_count.png)
+
 - CDS: critical data studies
 - Struggled to achieve deeper integration across both the students (international vs local) & integration across the broader course
+
 - Recommendations:
     - Create more empathetic learning spaces
     - Make it easy to share materials
     - Collaborate across borders & cultures to ensure it's more global leaning/thinking
+
+![Recommendations](./training_recommendations.png)

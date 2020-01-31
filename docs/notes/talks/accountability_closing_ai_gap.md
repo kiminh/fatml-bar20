@@ -20,6 +20,8 @@
     - Generated `insert 10 mechanisms`
     - Can apply them to AI
 
+![FEMA](./fema.png)
+
 
 *Failure Modes & Effects Analysis (FEMA)*
 - Trace back an outcome to the input/action that generated it.

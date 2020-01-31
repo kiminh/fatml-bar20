@@ -18,3 +18,5 @@
         - etc
 - Possibility exists to game the system to ensure the police obtain certain outcomes, eg
     - Mention specific items in charge sheets to ensure individuals are detained
+
+![Policy Recommendations](./policy_recommendations.png)

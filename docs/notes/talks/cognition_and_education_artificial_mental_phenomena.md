@@ -12,4 +12,6 @@
 - Contend that bias in black box systems can be identified & uncovered based on psychometric analysis rooted in identifying biases in psychological studies
 - Results tend to demonstrate that bias can be identified using this approach
 
+![Black Boxes](./black_boxes.png)
+
 **Worth reading the paper**

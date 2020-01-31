@@ -16,5 +16,5 @@
 - Using only actuals introduces risk as it's dependent on the quality of data
     - A possible solution is to combine it with an estimated equivalent
 - A trade-off exists between over or under allocating (using more or less of the estimated value)
-    - `insert "ROC" equivalent curve/slide`
+![Decision Rule Space](./decision_rule_space.png)
 - Developed a platform that allow institutes to test out relationships between actual vs estimated as well as their respective definitions of fairness

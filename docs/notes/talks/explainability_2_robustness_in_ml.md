@@ -11,8 +11,12 @@
 
 - Contend if we're going to explore ML explanations then those explanations should be robust
     - Helps us avoid moral hazard & a truer view of the world
+
+![Explanation Types](./explanation_types.png)
+
 - *Robustness*:
     - The more we can derive a result in multiple, independent ways, the more we have confidence that it's "real"
 - LIME & SHAP are not robust as you can perturb the input data such that the predictions are unchanged but the explanations are. Additionally, different models can perform equally well but produce considerably different explanations
 - Often explanations are used as justifications for decision making
 - Contends robust explanations matter ethical & epistemic reasons
+![Robustness as Reality](./robustness_as_reality.png)

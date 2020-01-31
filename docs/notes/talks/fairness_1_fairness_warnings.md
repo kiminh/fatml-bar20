@@ -17,3 +17,5 @@
     - *model agnostic meta-learning*
 - Connect:
     - Join fairness warnings & fair-MAML & use the methods together
+
+![Fairness Warnings](./fairness_warnings.png)

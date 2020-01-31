@@ -18,6 +18,7 @@
 - Features may be relevant to more than the decision at hand
     - Need to consider how rational the recommendation coming from the counterfactual is beyond just the scope of the model/problem. These could have impacts outside of this domain & thus may be more broadly counter productive
 
+![Scaling Flip](./scaling_flip.png)
 
 3 Tensions:
 - Feature-highlighting explainations compromise

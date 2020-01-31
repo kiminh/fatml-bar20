@@ -11,8 +11,10 @@
 
 - Search intent: context surrounding the intent behind a search. Without it search is considerably harder
 - Goal is to perform local interpretability for rankings
-- A good explanation is:
-    - *Accurate*: right for the right reasons
-    - *Fidelity*: mimic the behaviour of the model
+![Search Intent](./search_intent.png)
+
+
 - Can overly scoring metrics on the results to obtain histograms similar to SHAP force plots
 - Approach is focused on NLP problems
+
+![Good Explanations](./good_explanation.png)

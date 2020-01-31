@@ -11,6 +11,8 @@
 
 Implications of AI (Un-)Fairness in Higher Education Admissions: The Effects of Perceived AI (Un-)Fairness on Exit, Voice and Organizational Reputation
 
+![Concepts of Fairness](./concept_of_fairness.png)
+
 - Fairness Dimensions
     - distributed: the outcome of a process
     - procedural: focuses on the process

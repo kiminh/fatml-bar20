@@ -21,6 +21,9 @@
     - Explainability is used for internal debugging
     - Most consumers of ML explanations are engineers
     - Lack of consensus on how to evaluate feature-level explanations
+
+![AI Deployment Findings](./ai_deployment_findings.png)
+
 - Claim that explainability isn't really required to demonstrate accuracy, effectiveness & appropriateness of a model
 - Current explainability techniques don't have causal underpinnings yet they are used to identify & rectify issues on a causal basis
 

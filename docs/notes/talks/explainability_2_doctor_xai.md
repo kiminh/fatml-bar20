@@ -12,3 +12,5 @@
 - An agnostic explainer that can deal with sequential inputs & can leverage ontologies
 - Leverages an ontology based similarity metric
 - Synthetic patients are generated based on the ontology & use that to train a decision tree to be used as the explainer. The intention is the tree preserves the feature importance
+
+![Doctor XAI Explainable Tree](./doctor_xai_tree.png)

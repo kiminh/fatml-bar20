@@ -23,3 +23,5 @@ Proposes a framing for how computing (FAT* ) can contribute to social good probl
     - Computing can foreground long-standing social problems in a new way
     - Can force us to reconceptualise & bring new attention to problems
     - Book to read: *"Automating inequality"*
+
+![Computing Social Change](./computing_social_change.png)

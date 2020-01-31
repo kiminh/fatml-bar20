@@ -13,3 +13,5 @@
 - People feel exposed online as the attitudes & behaviours developed online can spill over into real world consequences
 - Technological solutions are rarely sufficient to create social change
 - Recommendation is to build technology in collaboration with the communities that will be impacted/interact with them
+
+![Ethics Code Findings](./ethics_codes_findings.png)

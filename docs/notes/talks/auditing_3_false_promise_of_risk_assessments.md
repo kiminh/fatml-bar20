@@ -14,6 +14,8 @@
     - They replace discriminatory behaviours & lead to reform
 - *The impossibility of fairness*:
     - If two groups have different rates of an outcome, then it is impossible for predictions about hose groups to both be calibrated and have balanced errors
+![The impossibility of fairness](./impossibility_of_fairness.png)
+
 - Formal & Substantive Equality
     - **Calibration**: formal equality
         - similar people should be treated similarly

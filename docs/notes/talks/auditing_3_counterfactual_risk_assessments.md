@@ -13,6 +13,7 @@
 - Challenges are faced when intervention/observation as your altering the outcome
 - Contend that counterfactuals provide a mechanism/model to assess the effectiveness & potential outcomes for the alternate scenario (no intervention)
 - Leverage some definitions from causal inference to define their interpretation & implementation of counterfactuals
+![Counterfactual Risk Assessments](./counterfactual_risk_assessment.png)
 
 
 **Read the paper**

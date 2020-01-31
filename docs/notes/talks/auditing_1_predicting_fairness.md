@@ -13,6 +13,8 @@
 - Tradeoffs exist when fitting to your fairness measure, eg:
     - Equalise recall
     - Equity vs Efficiency
+
+![Questions on Fairness Definitions](./fairness_definition_questions.png)
 - Built a model to identify the 150 highest risk individuals when it came to recidivism then wanted to refactor it to equalise recall across ethnicity
 - Options to resolve could be:
     - expand program to equalise results (collect more data)

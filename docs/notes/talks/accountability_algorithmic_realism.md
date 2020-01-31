@@ -14,4 +14,5 @@
 - Raises Q's such as:
     - Why aren't social considerations considered in technical development & reasoning?
 - Should be developing a meachanism to do so
-- 
+
+![Legal Formalism to Realism](./legal_formalism_to_realism.png)

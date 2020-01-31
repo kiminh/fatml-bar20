@@ -11,5 +11,7 @@
 
 - Recommend having different fact sheets for different stages & individuals involved in the project
 - Each major developer type (data scientist, engineer, audience) should consider & develop a fact sheet to be used for model/project assessments
+![Researchers Cont.](./researchers_cont.png)
+
 - Considerations should cover risks surrounding validation, potential for data leakage (possible via counterfactuals), etc
 - Many considerations will challenge/counter each other thus reasoning for choosing one over the one. Explainability fact sheets can be used to help capture & document this.

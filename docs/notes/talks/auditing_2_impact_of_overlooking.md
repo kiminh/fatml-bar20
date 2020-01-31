@@ -19,4 +19,6 @@
     1. Train model
     2. Test for discrimination
     3. modify features
+
+![Decision Making Framework](./decision_making_framework.png)
 - US have the 4/5 rule where by adhering to the majority of rules, but not necessarily all is sufficient, given business necessity
