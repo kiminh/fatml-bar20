@@ -9,7 +9,7 @@ module.exports = {
       sidebarDepth: 0,
       sidebar: [
         '/Program',
-        '/Key Takeaways',
+        '/Key_Takeaways',
         {
           title: 'Tutorials',
           collapsible: true,
