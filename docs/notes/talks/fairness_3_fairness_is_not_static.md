@@ -15,6 +15,8 @@
     - Your domain has feedback loops
     - long terms outcomes
     - etc
+![Not Static Fairness](./static_fairness.jpg)
+
 - Google have developed [ML-Fairness-Gym](https://github.com/google/ml-fairness-gym)
     - simulation framework to test this
 - Requires a model of the outside world in addition to the modelled world
