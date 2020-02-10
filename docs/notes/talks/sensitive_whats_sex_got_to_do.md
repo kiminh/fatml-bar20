@@ -18,8 +18,13 @@ For example:
     - Department
     - Gender
     - Feed into: Admission
+![Berklee Modularity](./modulatiry_berklee.png)
+
 - Assume independence, the relationships are causal & pathways are modular
 - *Modularity*: can change any one node & the other independent nodes won't change
 - Papers contends that modularity isn't implicit & doesn't hold
-- `*insert DAG *`
-- `*contact authors for actual paper*`
+- Eg:
+    ![Catholic Modularity](./catholic_modularity.png)
+
+
+**`contact authors for actual paper`**

@@ -56,3 +56,4 @@
 
 - Many researchers are exploring causal modelling to help identify fairness issues as well as identity treatment options
 - Much of the fairness research treats each attribute of a system as an independent entity that can (in a lab) me modified individually
+- Appears to be a comment on the state of fairness research & how it's somewhat dislocated from reality
